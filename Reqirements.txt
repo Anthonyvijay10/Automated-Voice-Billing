@@ -1,0 +1,8 @@
+# Required libraries
+speechrecognition==3.8.1
+nltk==3.6.5
+pyttsx3==2.90
+
+# Hypothetical database connector and payment gateway (replace with actual names and versions)
+database_connector==x.y.z
+payment_gateway==a.b.c
